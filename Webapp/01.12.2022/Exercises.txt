@@ -1,0 +1,15 @@
+Exercise1
+Given an array ["a", "b", "c", "d"];
+Create a select list with the options from this array.
+Add one button that "DELETES" the selected option from the select list and adds it as a new paragraph to an existing div.
+
+Exercise2:
+Create 100 buttons with numbers on them. When the user clicks any of them - he should get an alert with it's corresponding number.
+
+Exercise3:
+Create one button that will create another button when you click it. The second button must create a new input when clicked.
+
+Exercise4
+Create a select list where there is some animals
+When the user selects a animal, an input will appear.
+From that input the user must write how many of that animal will appear as an image in a line and all of them must be

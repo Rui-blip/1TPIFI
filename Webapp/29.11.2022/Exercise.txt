@@ -1,0 +1,7 @@
+Start with an EMPTY html page
+Include JP.
+When the page has loaded, add the following items to the page:
+
+-ONE input box
+-10 buttons, each of them numbered with 1 to 10..
+-when the user clicks on any of the buttons - it's number will be added into the INPUT box

@@ -1,0 +1,9 @@
+Start with an empty html
+
+Create from jQuerry:
+- one select list with four options:
+    CHOOSE ANIMAL,CAT, DOG, FROG. Initially the "Choose animal" option is selected.
+-An image tag without any source initially.
+-When the user changes the select;
+    -Remove the first option (CHOOSE ANIMAL) from the select list
+    -Change the source atribute of the image to be either a cat, dog or frog (according to what the user has chosen)
