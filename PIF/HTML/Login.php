@@ -135,7 +135,7 @@
                     <div class="card bg-white shadow-lg">
                         <div class="card-body p-5">
                             <form class="mb-3 mt-md-4">
-                                <h2 class="fw-bold mb-2 text-uppercase ">Sign Up</h2>
+                                <h2 class="fw-bold mb-2 text-uppercase">Sign Up</h2>
                                 <div class="mb-3">
                                     <label for="text" class="form-label ">First Name</label>
                                     <input type="text" class="form-control" id="FirstName" placeholder="First Name">
@@ -159,6 +159,12 @@
                                 <div class="mb-3">
                                     <label for="select" class="form-label ">Badge Number</label>
                                     <select type="select" class="form-control" id="BadgeNum">
+                                        <option value="" disabled selected>Select your Badge Number</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                    </select>
 
                                 </div>
                                 <p class="small"><a class="text-primary" href="forget-password.html">Forgot password?</a></p>
